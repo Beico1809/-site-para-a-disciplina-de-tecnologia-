@@ -1,0 +1,19 @@
+h1{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    background-color:rgb(255, 3, 3);
+}
+
+body{
+    background-color: rgb(228, 220, 220);
+}
+h2{
+    color: rgb(8, 8, 8);
+}
+img {
+    display: inline-block;
+    overflow-x: scroll;
+}
